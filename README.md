@@ -29,4 +29,4 @@ MS EXCEL
 6) Amazon, Flipkart, and Myntra were the most used channels by consumers.
 
 ## SUGGESTIONS:
-Target "Women" customers of the age group (25-49 yrs) living in "Maharashtra", "Karnataka" and "Uttar Pradesh" by displaying ads/offers/coupons on "Amazon", "Flipkart" and "Myntra". These 3 States are the most revenue-generating areas for this store, so providing offers and coupons through the above-mentioned channels should lead to higher sales in 2023 and also attract more potential customers.
+Target "Women" customers of the age group (25-49 yrs) living in "Maharashtra", "Karnataka" and "Uttar Pradesh" by displaying ads/offers/coupons on "Amazon", "Flipkart" and "Myntra". These 3 States are the most revenue-generating areas for this store, so providing offers and coupons through the above-mentioned channels should lead to higher sales in 2023 and also attract more potential customers. Also, the company can promote itself in other states as well to reach more potential consumers which will again lead to higher sales.
